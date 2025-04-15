@@ -9,7 +9,7 @@ import android.widget.LinearLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button blackbutton, redbutton, transparentbutton, yellowbutton, greenbutton, bluebutton, graybutton, magentabutton;
+    Button blackbutton, redbutton, transparentbutton, yellowbutton, greenbutton, bluebutton, graybutton, magentabutton, continueButton;
     LinearLayout layout;
 
     @Override
